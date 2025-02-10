@@ -1,4 +1,13 @@
-﻿Module Module1
+﻿'Payden Hoskins
+'Spring 2025
+'RCET2265
+'SayMyName
+'https://github.com/PaydenHoskins/FortuneCookie.git
+
+Option Explicit On
+Option Strict On
+
+Module FortuneCookie
 
     Sub Main()
         Randomize(DateAndTime.Now.Millisecond)
